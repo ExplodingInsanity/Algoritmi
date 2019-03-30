@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553272941 source:h:\projects\code blocks projects\_finished\permutari\main.cpp
+	<fstream>
+	<iostream>
+
