@@ -5,6 +5,7 @@ Colectie de algoritmi elementari, scrisi in C++
 Algoritm de cautare intr-un sir ordonat. Complexitate logaritmica
 Algoritmi scrisi pentru:
 * Cautarea unei valori intr-un sir ordonat crescator
+* Cautarea unei valori intr-un sir ordonat crescator, recursiv, fara parametri de stanga si dreapta
 * Partea Intreaga a radicalului unui numar natural
 
 [Wikipedia - Cautare Binara](https://ro.wikipedia.org/wiki/C%C4%83utare_binar%C4%83)
