@@ -4,8 +4,9 @@ Colectie de algoritmi elementari, scrisi in C++
 ## [Cautare Binara](https://github.com/ExplodingInsanity/Algoritmi/tree/master/cautare%20binara)
 Algoritm de cautare intr-un sir ordonat. Complexitate logaritmica
 Algoritmi scrisi pentru:
-* Cautarea unei valori intr-un sir ordonat crescator
-* Cautarea unei valori intr-un sir ordonat crescator, recursiv, fara parametri de stanga si dreapta
+* Cautare binara - Iterativa
+* Cautare binara - Recursiva
+* Cautarea binara recursiva, fara parametri de stanga si dreapta
 * Partea Intreaga a radicalului unui numar natural
 
 [Wikipedia - Cautare Binara](https://ro.wikipedia.org/wiki/C%C4%83utare_binar%C4%83)
@@ -26,6 +27,13 @@ Algoritmi scrisi pentru:
 
 [Tutoriale-pe-net - Algoritmul de fill](https://tutoriale-pe.net/algoritmul-de-fill-de-umplere-in-c/)
 [Wikipedia - Flood fill](https://en.wikipedia.org/wiki/Flood_fill)
+
+## [Interclasare](https://github.com/ExplodingInsanity/Algoritmi/tree/master/interclasare)
+Reuniunea a doi vectori sortati crescator. Se foloseste la Merge Sort.
+Algoritmi scrisi pentru:
+* Reuniunea a doi vectori, fara repetitie
+
+[Tutoriale-pe-net - Interclasarea a doi vectori in C++](https://tutoriale-pe.net/interclasarea-a-doi-vectori-in-c/)
 
 ## [Numarul de cifre 1 din reprezentarea binara](https://github.com/ExplodingInsanity/Algoritmi/tree/master/flood%20fill)
 Nu e neaparat algoritm elementar, dar sunt mai multe metode de aflare a numarului de cifre 1 din reprezentarea binara a unui numar.
