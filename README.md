@@ -52,8 +52,19 @@ Generarea permutarilor unui sir, prin backtracking. Probabil o sa schimb folderu
 Algoritmi scrisi pentru:
 * Afisarea tuturor permutarilor
 
+## Recursivitate
+Is this recursion Is this recursion Is this recursion Is this recursion Is this recursion Is this recursion Is this recursion Is this recursion Is this recursion Is this recursion Is this recursion???????????
+
+Algoritmi scrisi pentru:
+* Conversie dintr-o baza (<10) in baza 10
+* Al n-lea termen din sirul lui Fibonacci
+* Elementul de pe linia l, coloana c din triunghiul lui Pascal
+* Suma cifrelor unui numar
+* Numarul format din cifrele impare ale unui numar, si cel format din cifrele pare
+* Valoarea unui polinom intr-un anumit punct
+
 # TODO:
+* Conversie din baza 10 in baza b
 * Hanoi
 * Interclasare
 * Sort (bubble sort, merge sort, etc)
-* Triunghiul lui pascal (iterativ si recursiv)
