@@ -16,6 +16,17 @@ Algoritmi scrisi pentru:
 * cmmdc prin algoritmul lui Euclid - Iterativ
 * cmmdc prin algoritmul lui Euclid - Recursiv
 * cmmdc prin scaderi repetate
+
+## [Conversii baze]
+Algoritmi scrisi pentru
+* Conversia unui numar din baza b in baza 10 iterativ, returnat ca numar, b < 10
+* Conversia unui numar din baza b in baza 10 recursiv, returnat ca numar, b < 10
+* Conversia unui numar din baza 10 in baza b iterativ, returnat ca numar, b < 10
+* Conversia unui numar din baza 10 in baza b recursiv, returnat ca numar, b < 10
+* Conversia unui numar din baza 10 in baza b recursiv, returnat ca sir de caractere, b < 10
+* Conversia unui sir de caractere din baza b in baza 10 iterativ, returnat ca numar, b < 37
+* Conversia unui sir de caractere din baza b in baza 10 recursiv, returnat ca numar, b < 37
+
  
 [Infoarena - Algoritmul lui Euclid](https://infoarena.ro/algoritmul-lui-euclid)
 [Wikipedia - Algoritmul lui Euclid](https://ro.wikipedia.org/wiki/Algoritmul_lui_Euclid)
