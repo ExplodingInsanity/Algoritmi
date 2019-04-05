@@ -17,7 +17,10 @@ Algoritmi scrisi pentru:
 * cmmdc prin algoritmul lui Euclid - Recursiv
 * cmmdc prin scaderi repetate
 
-## [Conversii baze]
+[Infoarena - Algoritmul lui Euclid](https://infoarena.ro/algoritmul-lui-euclid)
+[Wikipedia - Algoritmul lui Euclid](https://ro.wikipedia.org/wiki/Algoritmul_lui_Euclid)
+
+## Conversii baze
 Algoritmi scrisi pentru
 * Conversia unui numar din baza b in baza 10 iterativ, returnat ca numar, b < 10
 * Conversia unui numar din baza b in baza 10 recursiv, returnat ca numar, b < 10
@@ -28,8 +31,6 @@ Algoritmi scrisi pentru
 * Conversia unui sir de caractere din baza b in baza 10 recursiv, returnat ca numar, b < 37
 
  
-[Infoarena - Algoritmul lui Euclid](https://infoarena.ro/algoritmul-lui-euclid)
-[Wikipedia - Algoritmul lui Euclid](https://ro.wikipedia.org/wiki/Algoritmul_lui_Euclid)
 
 ## [Flood Fill](https://github.com/ExplodingInsanity/Algoritmi/tree/master/flood%20fill)
 Algoritm de determinare a zonelor dintr-o matrice cu o anumita proprietate,
